@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88f87919-4ddc-4cf0-89ed-f85b5313be49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Graph/GraphUsingAdjMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/GraphUsingEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/GraphUsingEdge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
